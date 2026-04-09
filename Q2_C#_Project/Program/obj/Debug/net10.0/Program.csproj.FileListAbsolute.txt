@@ -1,0 +1,14 @@
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\bin\Debug\net10.0\Program.exe
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\bin\Debug\net10.0\Program.deps.json
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\bin\Debug\net10.0\Program.runtimeconfig.json
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\bin\Debug\net10.0\Program.dll
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\bin\Debug\net10.0\Program.pdb
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\Program.AssemblyInfoInputs.cache
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\Program.AssemblyInfo.cs
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\Program.dll
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\refint\Program.dll
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\Program.pdb
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\Program.genruntimeconfig.cache
+C:\Users\HELNA MARIA MELTON\Desktop\20082107\Q2_C#_Project\Program\obj\Debug\net10.0\ref\Program.dll
